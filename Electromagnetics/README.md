@@ -1,8 +1,31 @@
 ## Introduction to Electrodynamics - David J. Griffiths
 
-- Introduction
-   - Medical Image modalities
-   - Medical Imaging techniques
+- Chapter 1: Vector Analysis
+   - Vector Algebra 
+   - Differential Calculus
+   - Integral Calculus
+   - Curvilinear Coordinates
+   - The Dirac Delta Function
+- Chapter 2: Electrostatics
+   - The Electric Field
+   - Divergence and Curl of Electrostatic Fields
+   -  Electric Potential
+   -  Work and Energy in Electrostatics
+   -  Conductors
+- Chapter 3: Potentials
+   -  Laplace’s Equation
+   -  The Method of Images
+   -  Separation of Variables
+   -  Multipole Expansion
+ - Chapter 4: Electric Fields in Matter
+   -  Polarization
+   -  The Field of a Polarized Object
+   -  The Electric Displacement
+   -   Linear Dielectrics
+  - Chapter 5: Magnetostatics
+   -  The Lorentz Force Law   
+ 
+
 - Prerequisites
    - Image Enhancement
 - Two Dimensional Signals Processing and Image Restoration
