@@ -1,3 +1,19 @@
+## Introduction to Electrodynamics - David J. Griffiths
+
+- Introduction
+   - Medical Image modalities
+   - Medical Imaging techniques
+- Prerequisites
+   - Image Enhancement
+- Two Dimensional Signals Processing and Image Restoration
+   - 2D digital signal processing
+   - Pseudo Inverse Filtering
+   - Wiener Filtering
+   - Adaptive Local Wiener Filter
+
+
+
+
 ## Full targets
 
 These contain a resident compiler.
