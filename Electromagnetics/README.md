@@ -22,56 +22,27 @@
    -  The Field of a Polarized Object
    -  The Electric Displacement
    -   Linear Dielectrics
-  - Chapter 5: Magnetostatics
-   -  The Lorentz Force Law   
- 
+ - Chapter 5: Magnetostatics
+   -  The Lorentz Force Law
+   -  The Biot-Savart Law
+   -  The Divergence and Curl of B
+   -  Magnetic Vector Potential
+ - Chapter 6:  Magnetic Fields in Matter 
+   -   Magnetization
+   -   The Field of a Magnetized Object
+   -   The Auxiliary Field H
+   -   Linear and Nonlinear Media
+ - Chapter 7: Electrodynamics
+   -   Electromotive Force
+   -   Electromagnetic Induction
+   -   Maxwell’s Equations
+ - Chapter 8: Conservation Laws
+   -   Charge and Energy
+   -   Momentum
+ - Chapter 9: Electromagnetic Waves
+   -   Waves in One Dimension
+   -   Electromagnetic Waves in Vacuum
+   -   Electromagnetic Waves in Matter
+   -   Absorption and Dispersion
 
-- Prerequisites
-   - Image Enhancement
-- Two Dimensional Signals Processing and Image Restoration
-   - 2D digital signal processing
-   - Pseudo Inverse Filtering
-   - Wiener Filtering
-   - Adaptive Local Wiener Filter
 
-
-
-
-## Full targets
-
-These contain a resident compiler.
-
-- C.  Generates a C file. 32 or 64 bits.
-- Intel x86.  32-bit only.  Linux and Windows.
-- Motorola 68000.  Linux and Atari TOS.
-- ARM.  Classic 32-bit instruction set.
-- PDP-11.  16-bit.  Unix V7.
-- RISC-V.  32-bit only.
-- asm.js.  Generates an asm.js file.  SpicerMonkey, V8, JavaScriptCore, IE11.
-
-## Embedded targets
-
-Support for a Forth cross compiler is under way:
-http://github.com/larsbrinkhoff/xForth
-
-- 6502
-- 8051
-- AVR
-- Cortex-M, Thumb instruction set
-- Emacs bytecodes
-- MSP430
-- PDP-8
-- PIC, midrange devices
-- STM8
-
-## Research
-
-Some notes have been collected about these machines.
-
-- Batch file
-- 6809
-- PDP-1
-- PDP-4/7/9/15
-- PDP-10
-- Shell script
-- Xtensa
