@@ -54,3 +54,18 @@
    -   The Special Theory of Relativity
    -   Relativistic Mechanics
 
+
+## Problems in General Physics - I. E. lrodov
+   -   Constant Electric Field in Vacuum
+   -   Conductors and Dielectrics in an Electric Field
+   -   Electric Capacitance. Energy of an Electric Field
+   -   Electric Current
+   -   Constant Magnetic Field. Magnetics
+   -   Electromagnetic Induction. Maxwell's Equations
+
+## Other Refrences
+   - Electricity and Magnetism - Edward M. Purcell, David J. Morin
+   - National Physics Olympiads of Iran stage 1, 2, 3, and 4
+   - International Physics Olympiads
+   - Aptitude Test Problems in Physics - S.S. Krotov
+
