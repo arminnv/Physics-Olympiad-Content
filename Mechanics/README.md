@@ -1,5 +1,4 @@
 ## Classical Dynamics of Particles and Systems - Stephen T. Thornton, Jerry B. Marion
- - David J. Griffiths
 
 - Chapter 1: Matrices, Vectors, and Vector Calculus 
    - Introduction 
