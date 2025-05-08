@@ -38,11 +38,19 @@
    -   Maxwell’s Equations
  - Chapter 8: Conservation Laws
    -   Charge and Energy
+   -   Poynting's Theorem
    -   Momentum
+   -   Maxwell's Stress Tensor
  - Chapter 9: Electromagnetic Waves
    -   Waves in One Dimension
    -   Electromagnetic Waves in Vacuum
    -   Electromagnetic Waves in Matter
    -   Absorption and Dispersion
-
+ - Chapter 10: Potentials and Fields
+   -   The Potential Formulation
+   -   Continuous Distributions
+   -   Point Charges
+ - Chapter 12: Electrodynamics and Relativity
+   -   The Special Theory of Relativity
+   -   Relativistic Mechanics
 
