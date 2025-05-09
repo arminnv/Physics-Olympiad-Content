@@ -1,127 +1,89 @@
 ## Fundamentals of Statistical and Thermal Physics - Frederick Reif
 
 - Chapter 1: Introduction to statistical methods
-   - RANDOM WALK AND BINOMIAL DISTRIBUTION 
-   - GENERAL DISCUSSION OF THE RANDOM WALK
-
-- Chapter 2: Newtonian Mechanics-Single Particle 
-   - Introduction 
-   - Newton's Laws
-   - Frames of Reference
-   - The Equation of Motion for a Particle 
-   - Conservation Theorems
-   - Energy
-   - Limitations of Newtonian Mechanics
- 
-- Chapter 3: Oscillations 
-   - Introduction 
-   - Simple Harmonic Oscillator
-   - Harmonic Oscillations in Two Dimensions
-   - Phase Diagrams  
-   - Damped Oscillations
-   - Sinusoidal Driving Forces
-   - Physical Systems
-   - Principle of Superposition-Fourier Series 
-
-
-- Chapter 5: Gravitation
-   - Introduction 
-   - Gravitational Potential 
-   - Lines of Force and Equipotential Surfaces 
-   - When Is the Potential Concept Useful? 
-   - Ocean Tides 
-
-- Chapter 6: Some Methods in the Calculus of Variations
-   - Introduction 
-   - Statement of the Problem
-   - Euler's Equation
-   - The "Second Form" of the Euler Equation 
+   - Random walk and binomial disturbution
+   - Elementary statistical concepts and examples
+   - The simple random walk problem in one dimension
+   - Calculation of mean values for the random walk problem
+   - Gaussian probability distributions
+   - Probability distributions involving several variables
+   - Calculation of the probability distribution
+     
+- Chapter 7: Simple applications of statistical mechanics
+   - Partition functions and their properties
+   - Calculation of thermodynamic quantities
+   - General calculation of magnetization
+   - Maxwell velocity distribution
+   - Maxwell–Boltzmann distribution
+   - Related velocity distributions and mean values
+   - Number of molecules striking a surface
+   - Effusion
+   - Pressure and momentum transfer
+     
+ - Chapter 9: Quantum statistics of ideal gases
+   - Black-body radiation  
+   - Electromagnetic radiation in thermal equilibrium inside an enclosure
+   - Radiation emitted by a body at temperature T
 
  
-- Chapter 8: Central-Force Motion
-   - Introduction 
-   - Reduced Mass
-   - Conservation Theorems-First Integrals of the Motion
-   - Equations of Motion 
-   - Orbits in a Central Field
-   - Centrifugal Energy and the Effective Potential
-   - Planetary Motion-Kepler's Problem
-   - Orbital Dynamics
-   - Stability of Circular Orbits
 
+## Equilibrium Thermodynamics - C.J. Adkins
 
-- Chapter 9: Dynamics of a System of Particles
-   - Introduction 
-   - Center of Mass 
-   - Linear Momentum of the System  
-   - Angular Momentum of the System
-   - Energy of the System 
-   - Elastic Collisions of Two Particles 
-   - Kinematics of Elastic Collisions 
-   - Inelastic Collisions 
-   - Scattering Cross Sections 
-   - Rocket Motion
+- Chapter 1: Introduction
+   -  Origins of thermodynamics
+   - The macroscopic approach
+   - The role of the laws
+   - Systems, surroundings, and boundaries
+   - Thermodynamic variables
+   - Thermodynamic equilibrium
+   - Thermodynamic reversibility
+   - Some useful mathematical results
 
+- Chapter 2: 2 The zeroth law
+    - The zeroth law – 17
+    - Temperature – 18
+    - Scales of temperature – 20
+    - The perfect gas scale
+    - Thermodynamic temperature
+    - The Celsius scale
+    - Some common thermometers
 
-- Chapter 10: Motion in a Nonintertial Reference Frame
-   - Introduction 
-   - Rotating Coordinate Systems
-   - Centrifugal and Coriolis Forces 
+- Chapter 3: The first law
+    - Background to the first law – 30
+    - The first law – 31
+    - Internal energy – 32
+    - Heat – 32
+    - Work in various systems – 35
 
+- Chapter 4: The first law The second law
+    - The function of the second law
+    - Cyclic processes and heat engines
+    - Statements of the second law
+    - Hotness and temperature
+    - Carnot’s theorem
+    - Thermodynamic temperature
+    - Uniqueness of reversible adiabatics
+    - Refrigerators and heat pumps
+    - Real heat engines
 
-- Chapter 11: Dynamics of Rigid Bodies 
-   - Introduction 
-   - Simple Planar Motion
-   - Inertia Tensor 
-   - Angular Momentum
-   - Principal Axes of Inertia
-   - Moments of Inertia for Different Body Coordinate Systems 
-   - Further Properties of the Inertia Tensor  
-   - Eulerian Angles
-   - Euler's Equations for a Rigid Body
-   - Force-Free Motion of a Symmetric Тop 
- 
-- Chapter 12: Coupled Oscillations
-   - Introduction 
-   - Two Coupled Harmonic Oscillators 
-   - Normal Coordinates
+- Chapter 5: Entropy
+    - Clausius’ theorem – 68
+    - Entropy
+    - Entropy in irreversible changes
+    - The entropy form of the first law
+    - Entropy and the degradation of energy
+    - Entropy and order
+   
+- Chapter 7: Thermodynamic potentials
+    - The potential functions
+    - The Legendre differential transformation
+    - Maxwell relations
 
-
-- Chapter 13: Continuous Systems; Waves
-   - Introduction 
-   - Continuous String as a Limiting Case of the Loaded String
-   - Energy of a Vibrating String 
-   - Wave Equation
-   - Forced and Damped Motion
-   - General Solutions of the Wave Equation
-   - Separation of the Wave Equation
-
-
- - Chapter 14: Special Theory of Relativity 
-   - Introduction 
-   - Lorentz Transformation
-   - Relativistic Momentum
-   - Energy
-  
-
-## Introduction to Classical Mechanics - David Morin
-
-- Chapter 1: Statics
-- Chapter 2: Using F = ma
-- Chapter 3: Oscillations
-- Chapter 4: Conservation of Energy and Momentum
-- Chapter 5: The Lagrangian Method
-- Chapter 6: Central Forces
-- Chapter 7: Angular Momentum, Part I
 
 ## Other References:
-- An Introduction to Mechanics - Daniel Kleppner, Robert J. Kolenkow
-- Special Relativity: For the Enthusiastic Beginner - David Morin
 - National Physics Olympiads of Iran stage 4: http://iranpho.ir/post/iranpho-gold
 - National Physics Olympiads of Iran stage 3: http://iranpho.ir/post/iranpho-summer-theory
 - National Physics Olympiads of Iran stage 2: http://iranpho.ir/post/iranpho-2nd
 - National Physics Olympiads of Iran stage 1: http://iranpho.ir/post/iranpho-1st
 - International Physics Olympiads
 - Aptitude Test Problems in Physics - S.S. Krotov
-- Approximation and Perturbation in Mechanics - Hojatollah Mozafari
-- Problems in General Physics - I. E. lrodov
