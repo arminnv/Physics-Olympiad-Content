@@ -115,9 +115,17 @@
    - Energy
   
 
+## Introduction to Classical Mechanics - David Morin
+
+- Chapter 1: Statics
+- Chapter 2: Using F = ma
+- Chapter 3: Oscillations
+- Chapter 4: Conservation of Energy and Momentum
+- Chapter 5: The Lagrangian Method
+- Chapter 6: Central Forces
+- Chapter 7: Angular Momentum, Part I
 
 ## Other References:
-- Introduction to Classical Mechanics - David Morin
 - An Introduction to Mechanics - Daniel Kleppner, Robert J. Kolenkow
 - Special Relativity: For the Enthusiastic Beginner - David Morin
 - National Physics Olympiads of Iran stage 4: http://iranpho.ir/post/iranpho-gold
