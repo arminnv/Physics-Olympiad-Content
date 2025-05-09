@@ -39,21 +39,21 @@
    - Thermodynamic reversibility
    - Some useful mathematical results
 
-- Chapter 2: 2 The zeroth law
-    - The zeroth law – 17
-    - Temperature – 18
-    - Scales of temperature – 20
+- Chapter 2: The zeroth law
+    - The zeroth law 
+    - Temperature 
+    - Scales of temperature
     - The perfect gas scale
     - Thermodynamic temperature
     - The Celsius scale
     - Some common thermometers
 
 - Chapter 3: The first law
-    - Background to the first law – 30
-    - The first law – 31
-    - Internal energy – 32
-    - Heat – 32
-    - Work in various systems – 35
+    - Background to the first law 
+    - The first law 
+    - Internal energy
+    - Heat 
+    - Work in various systems
 
 - Chapter 4: The first law The second law
     - The function of the second law
@@ -67,7 +67,7 @@
     - Real heat engines
 
 - Chapter 5: Entropy
-    - Clausius’ theorem – 68
+    - Clausius’ theorem
     - Entropy
     - Entropy in irreversible changes
     - The entropy form of the first law
